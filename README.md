@@ -1,0 +1,1 @@
+# html-full-image-template-structure
